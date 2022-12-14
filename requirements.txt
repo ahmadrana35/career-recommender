@@ -1,2 +1,10 @@
 # installs dependencies from ./setup.py, and the package itself
-.
+s3fs
+boto3
+pandas
+numpy
+sklearn
+plotly
+networkx
+matplotlib
+seaborn
