@@ -3,7 +3,7 @@ s3fs
 boto3
 pandas
 numpy
-sklearn
+scikit-learn
 plotly
 networkx
 matplotlib
