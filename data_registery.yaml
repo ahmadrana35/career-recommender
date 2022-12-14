@@ -1,0 +1,17 @@
+## Importing from https://Faethm-ai/faethm-data-registry.git
+
+data_registry:
+  path: s3://faethm-data-science/faethm-data-registry
+
+datasets:
+  job_attributes_universe:
+    url: jobs-universe/job_attributes_universe.csv
+    rev: v1.2.0
+
+  Content_Model_Reference_II:
+    url: onet/Content_Model_Reference_II.xlsx
+    rev: v1.2.0
+
+  jobs_model_predictions:
+    url: jobs-model/jobs_model_predictions.csv
+    rev: v1.2.0
